@@ -1,1 +1,2 @@
-# Card-Neom-rfico-GT-Aula-2-
+# Card-Neomorfico
+Aula 2 do Geração Tech
